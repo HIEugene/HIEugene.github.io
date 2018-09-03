@@ -3,5 +3,15 @@
     "description": "This is notebook created by Gitbook",
     "extension": null,
     "generator": "site",
-    "output": null
+    "output": null,
+    "links":{
+        "sharing":{
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        }
+    },
+    "pdf":{}
 }
