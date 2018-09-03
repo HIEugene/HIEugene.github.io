@@ -14,7 +14,7 @@
         }
     },
     "pdf":{
-        "fontSize": 12,
+        "fontsize": 12,
         "footerTemplate": null,
         "headerTemplate": null,
         "margin":{
